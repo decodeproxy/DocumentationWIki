@@ -2,7 +2,7 @@
 <p align="center">
     <h1 align="center">Wiki for HomeLab & TechSupport</h1>
     <p align="center">A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
-    <p align="center"><strong><a href="https://decodeproxy.github.io/TechSupportWiki/">See it in action!</a></strong></p>
+    <p align="center"><strong><a href="https://decodeproxy.github.io/WikiforHomeLab-TechSupport/">See it in action!</a></strong></p>
     <br><br><br>
 </p>
 
