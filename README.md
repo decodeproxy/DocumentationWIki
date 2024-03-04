@@ -39,8 +39,6 @@ Changing the version of the theme and/or Jekyll
 Simply edit the relevant line(s) in the `Gemfile`.
 
 ## Source's
-Fork from: [https://github.com/Stavrospanakakis/jekyll-cv](https://github.com/Stavrospanakakis/jekyll-cv)
-
 [Jekyll]: https://jekyllrb.com
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
@@ -52,5 +50,6 @@ Fork from: [https://github.com/Stavrospanakakis/jekyll-cv](https://github.com/St
 [MIT License]: https://en.wikipedia.org/wiki/MIT_License
 [starter workflows]: https://github.com/actions/starter-workflows/blob/main/pages/jekyll.yml
 [actions/starter-workflows]: https://github.com/actions/starter-workflows/blob/main/LICENSE
+Fork from: [https://github.com/Stavrospanakakis/jekyll-cv](https://github.com/Stavrospanakakis/jekyll-cv)
 
----
+
