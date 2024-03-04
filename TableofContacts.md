@@ -1,7 +1,7 @@
-|TItle|Layout
-|---|---|
-|Title|default|
-
+---
+title: Title
+layout: home
+---
 
 title	layout
 Migration and Upgrading
