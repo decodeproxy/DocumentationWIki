@@ -1,3 +1,47 @@
+<br><br>
+<p align="center">
+    <h1 align="center">Just the Docs Template Version</h1>
+    <p align="center">A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
+    <p align="center"><strong><a href="https://decodeproxy.github.io/TechSupportWiki">See it in action!</a></strong></p>
+    <br><br><br>
+</p>
+
+# Goal
+
+## Deployment
+
+To deploy, simply upload the files to your web hosting provider. Or you can also use a service like GitHub Pages to host the website for free.
+
+1. Create a new repository from a Forks repository.
+2. Create dublicate of the original branch called original
+3. Go to Settings, Pages and select main as Github Pages source
+4. Publish Page
+5. Replace the dummy data with mine (See below edits for this repository)
+8. Review coding for tracking and other files with mine.
+9. Start using published link
+10. Setup Cloudflare Pages to use with my own Domain (Optional)
+
+## Customization For this Template
+
+
+
+## Source's
+Fork from: [https://github.com/Stavrospanakakis/jekyll-cv](https://github.com/Stavrospanakakis/jekyll-cv)
+[^2]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+
+[Jekyll]: https://jekyllrb.com
+[Just the Docs Template]: https://just-the-docs.github.io/just-the-docs-template/
+[Just the Docs]: https://just-the-docs.com
+[Just the Docs repo]: https://github.com/just-the-docs/just-the-docs
+[GitHub Pages]: https://pages.github.com/
+[Template README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
+[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
+[use the template]: https://github.com/just-the-docs/just-the-docs-template/generate
+
+
+
+
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
