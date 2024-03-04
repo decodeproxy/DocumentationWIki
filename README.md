@@ -1,6 +1,6 @@
 <br><br>
 <p align="center">
-    <h1 align="center">Just the Docs Template Version</h1>
+    <h1 align="center">Wiki for HomeLab & TechSupport</h1>
     <p align="center">A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
     <p align="center"><strong><a href="https://decodeproxy.github.io/TechSupportWiki/">See it in action!</a></strong></p>
     <br><br><br>
@@ -39,7 +39,7 @@ Changing the version of the theme and/or Jekyll
 Simply edit the relevant line(s) in the `Gemfile`.
 
 ## Source's
-Fork from: https://just-the-docs.github.io/just-the-docs/
+Fork from: [https://just-the-docs.github.io/just-the-docs/](https://github.com/just-the-docs/just-the-docs-template/)
 
 - Jekyll: https://jekyllrb.com
 - Just the Docs: https://just-the-docs.github.io/just-the-docs
