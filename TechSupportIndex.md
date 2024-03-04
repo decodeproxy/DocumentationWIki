@@ -1,6 +1,6 @@
 ---
 title: Tech Support Index
-layout: Home
+layout: default
 Nav_order: 2
 ---
 
