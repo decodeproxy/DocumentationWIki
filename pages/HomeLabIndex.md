@@ -1,5 +1,5 @@
 ---
-title: Home Lab Index
+title: Home_Lab Index
 layout: default
 Nav_order: 3
 ---
