@@ -1,6 +1,6 @@
 ---
 title: Title
-layout: home
+layout: defualt
 Nav_order: 2
 ---
 
