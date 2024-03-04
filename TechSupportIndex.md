@@ -1,5 +1,5 @@
 ---
-title: Title
+title: Tech Support Index
 layout: Home
 Nav_order: 2
 ---
