@@ -1,8 +1,8 @@
-title: TechSupportWiki
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: DocumentationWIki
+description: Just the Docs theme for Documation using Jeykll & Github Pages
 theme: just-the-docs
 
-url: https://decodeproxy.github.io/TechSupportWiki/
+url: https://decodeproxy.github.io/DocumentationWIki/
 
 # Enable or disable the site search
 # Supports true (default) or false
